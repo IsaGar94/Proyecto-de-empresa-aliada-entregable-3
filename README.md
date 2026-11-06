@@ -1,6 +1,3 @@
-# Proyecto Empresa Aliada – Entregable 3
-## Análisis de agrupamiento (Clustering) para la marca VANISH
-
 ##  1. Propósito del proyecto
 
 En este entregable se desarrolla un análisis de agrupamiento (*clustering*) para los registros de la marca **VANISH**, con el propósito de identificar grupos de observaciones que compartan características similares en sus variables de ventas.
